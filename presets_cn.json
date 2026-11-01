@@ -7,7 +7,7 @@
       "note": "原包六种车厢复现，不代表现实标准编组。"
     },
     "original_6_shonan": {
-      "name": "E217 湘南新宿线 6节编组",
+      "name": "E217 湘南色涂装 6节编组",
       "livery": "shonan",
       "formation": "TCF,T,MP2,TS,MPS2,TCB",
       "note": "原包六种车厢复现，不代表现实标准编组。"
@@ -15,18 +15,12 @@
     "yokosuka_basic_11": {
       "livery": "yokosuka",
       "direction": "千叶／君津／成田空港侧 → 久里滨侧；TCF 在千叶侧",
-      "sources": [
-        "https://www.katomodels.com/product/n/e217kei",
-        "https://www.tomytec.co.jp/tomix/products/img/20171011-5.pdf",
-        "https://4gousya.net/jr_e/4105.php",
-        "https://g-gauge.world.coocan.jp/PROTOTYPE/JRE/JRE-E217.html"
-      ],
-      "name": "E217 横须贺・总武快速线 11节基本编组（Green Car外观替代）",
+      "name": "E217 横须贺・总武快速线 11节基本编组",
       "formation": "TCF,TS,MPS1R,M,T,T,T,T,MP1R,M,TCB",
-      "note": "按现实11→1号车排列，9/3号车各一具单弓，靠モハE216（久里滨）侧。现实中4/5号车双层Green Car使用普通T车外形；11号车保留原TCF车内装，未复现半横向座椅。9/10号车使用半横向座椅中间车模板。",
+      "note": "按现实11→1号车排列，9/3号车各一具单弓，靠久里滨侧。现实中4/5号车双层Green Car使用普通T车外形；11号车保留原TCF车内装，未复现半横向座椅。9/10号车使用半横向座椅中间车模板。",
       "limitations": [
-        "现实中4/5号车双层Green Car（生成器第7/8节）以普通单层T车外形替代。",
-        "现实中11号车（生成器第1节）应为半横向座椅头车，当前保留原TCF车内装。"
+        "现实中4/5号车双层Green Car以普通单层T车外形替代。",
+        "现实中11号车应为半横向座椅头车，当前保留原TCF车内装。"
       ],
       "real_cars": [
         {
@@ -89,15 +83,9 @@
     "yokosuka_attached_4": {
       "livery": "yokosuka",
       "direction": "千叶／君津／成田空港侧 → 久里滨侧；TCF 在千叶侧",
-      "sources": [
-        "https://www.katomodels.com/product/n/e217kei",
-        "https://www.tomytec.co.jp/tomix/products/img/20171011-5.pdf",
-        "https://4gousya.net/jr_e/4105.php",
-        "https://g-gauge.world.coocan.jp/PROTOTYPE/JRE/JRE-E217.html"
-      ],
       "name": "E217 横须贺・总武快速线 4节附属编组",
       "formation": "TCF,MP1R,M,TCB",
-      "note": "按现实增4→增1号车排列；增3号车一具单弓，靠モハE216（久里滨）侧；全部长座席。头车厕所等细节沿用原模型，未区分各番台差异。",
+      "note": "按现实增4→增1号车排列；增3号车一具单弓，靠久里滨侧；全部长座席。",
       "limitations": [
         "附属头车厕所等番台细节沿用原模型，未单独复现。"
       ],
@@ -106,6 +94,106 @@
           "number": "增4",
           "type": "クハE217-2000",
           "interior": "longitudinal"
+        },
+        {
+          "number": "增3",
+          "type": "モハE217-2000",
+          "interior": "longitudinal"
+        },
+        {
+          "number": "增2",
+          "type": "モハE216-2000",
+          "interior": "longitudinal"
+        },
+        {
+          "number": "增1",
+          "type": "クハE216-1000/2000",
+          "interior": "longitudinal"
+        }
+      ]
+    },
+    "shonan_basic_10": {
+      "livery": "shonan",
+      "direction": "东京侧 → 热海侧；TCF 在东京侧",
+      "name": "E217 东海道线 10节基本编组",
+      "formation": "TCF,MPS1R,M,T,T,T,T,MP1R,M,TCB",
+      "note": "按现实10→1号车排列，9/3号车各一具单弓，靠热海侧。现实中4/5号车双层Green Car使用普通T车外形；10号车保留原TCF车内装，未复现半横向座椅。9号车使用半横向座椅中间车模板。",
+      "limitations": [
+        "现实中4/5号车双层Green Car以普通单层T车外形替代。",
+        "现实中10号车应为半横向座椅头车，当前保留原TCF车内装。"
+      ],
+      "real_cars": [
+        {
+          "number": "10",
+          "type": "クハE217-0",
+          "interior": "semicross"
+        },
+        {
+          "number": "9",
+          "type": "モハE217-0",
+          "interior": "semicross"
+        },
+        {
+          "number": "8",
+          "type": "モハE216-1000",
+          "interior": "longitudinal"
+        },
+        {
+          "number": "7",
+          "type": "サハE217-2000",
+          "interior": "longitudinal"
+        },
+        {
+          "number": "6",
+          "type": "サハE217-2000",
+          "interior": "longitudinal"
+        },
+        {
+          "number": "5",
+          "type": "サロE217",
+          "interior": "Green Car"
+        },
+        {
+          "number": "4",
+          "type": "サロE216",
+          "interior": "Green Car"
+        },
+        {
+          "number": "3",
+          "type": "モハE217-2000",
+          "interior": "longitudinal"
+        },
+        {
+          "number": "2",
+          "type": "モハE216-2000",
+          "interior": "longitudinal"
+        },
+        {
+          "number": "1",
+          "type": "クハE216-2000",
+          "interior": "longitudinal"
+        }
+      ]
+    },
+    "shonan_attached_5": {
+      "livery": "shonan",
+      "direction": "东京侧 → 热海侧；TCF 在东京侧",
+      "name": "E217 东海道线 5节附属编组",
+      "formation": "TCF,TS,MP1R,M,TCB",
+      "note": "按现实增5→增1号车排列；增3号车一具单弓，靠热海侧；除增4节外全部长座席。",
+      "limitations": [
+        "附属头车厕所等番台细节沿用原模型，未单独复现。"
+      ],
+      "real_cars": [
+        {
+          "number": "增5",
+          "type": "クハE217-2000",
+          "interior": "longitudinal"
+        },
+        {
+          "number": "增4",
+          "type": "サハE217-0",
+          "interior": "semicross"
         },
         {
           "number": "增3",

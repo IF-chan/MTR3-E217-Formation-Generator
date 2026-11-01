@@ -1,0 +1,216 @@
+{
+  "presets": {
+    "original_6_yokosuka": {
+      "name": "E217 Yokosuka–Sōbu Rapid Line 6-car formation",
+      "livery": "yokosuka",
+      "formation": "TCF,T,MP2,TS,MPS2,TCB",
+      "note": "Recreates the six car types in the original resource pack; this is not a standard real-world formation."
+    },
+    "original_6_shonan": {
+      "name": "E217 Shōnan livery 6-car formation",
+      "livery": "shonan",
+      "formation": "TCF,T,MP2,TS,MPS2,TCB",
+      "note": "Recreates the six car types in the original resource pack; this is not a standard real-world formation."
+    },
+    "yokosuka_basic_11": {
+      "livery": "yokosuka",
+      "direction": "Chiba / Kimitsu / Narita Airport end → Kurihama end; TCF is at the Chiba end",
+      "name": "E217 Yokosuka–Sōbu Rapid Line 11-car basic set",
+      "formation": "TCF,TS,MPS1R,M,T,T,T,T,MP1R,M,TCB",
+      "note": "Arranged in real-world car order 11→1. Cars 9 and 3 each have one pantograph at the Kurihama end. The real-world double-deck Green Cars (Car 4 and 5) use the standard T car appearance. Car 11 retains the original TCF interior; its semi-cross seating is not reproduced. Cars 9 and 10 use the intermediate-car template with semi-cross seating.",
+      "limitations": [
+        "The real-world double-deck Green Cars (Car 4 and 5) are represented by standard single-deck T cars.",
+        "In reality, Car 11 should be a cab car with semi-cross seating; the original TCF interior is retained."
+      ],
+      "real_cars": [
+        {
+          "number": "11",
+          "type": "クハE217-0",
+          "interior": "semicross"
+        },
+        {
+          "number": "10",
+          "type": "サハE217-0",
+          "interior": "semicross"
+        },
+        {
+          "number": "9",
+          "type": "モハE217-0",
+          "interior": "semicross"
+        },
+        {
+          "number": "8",
+          "type": "モハE216-1000",
+          "interior": "longitudinal"
+        },
+        {
+          "number": "7",
+          "type": "サハE217-2000",
+          "interior": "longitudinal"
+        },
+        {
+          "number": "6",
+          "type": "サハE217-2000",
+          "interior": "longitudinal"
+        },
+        {
+          "number": "5",
+          "type": "サロE217",
+          "interior": "Green Car"
+        },
+        {
+          "number": "4",
+          "type": "サロE216",
+          "interior": "Green Car"
+        },
+        {
+          "number": "3",
+          "type": "モハE217-2000",
+          "interior": "longitudinal"
+        },
+        {
+          "number": "2",
+          "type": "モハE216-2000",
+          "interior": "longitudinal"
+        },
+        {
+          "number": "1",
+          "type": "クハE216-2000",
+          "interior": "longitudinal"
+        }
+      ]
+    },
+    "yokosuka_attached_4": {
+      "livery": "yokosuka",
+      "direction": "Chiba / Kimitsu / Narita Airport end → Kurihama end; TCF is at the Chiba end",
+      "name": "E217 Yokosuka–Sōbu Rapid Line 4-car attached set",
+      "formation": "TCF,MP1R,M,TCB",
+      "note": "Arranged in real-world attached-set car order 4→1. Attached-set Car 3 has one pantograph at the Kurihama end. All cars have longitudinal seating.",
+      "limitations": [
+        "Subseries-specific details, such as toilets in the attached-set cab cars, use the original model and are not modeled separately."
+      ],
+      "real_cars": [
+        {
+          "number": "Attached 4",
+          "type": "クハE217-2000",
+          "interior": "longitudinal"
+        },
+        {
+          "number": "Attached 3",
+          "type": "モハE217-2000",
+          "interior": "longitudinal"
+        },
+        {
+          "number": "Attached 2",
+          "type": "モハE216-2000",
+          "interior": "longitudinal"
+        },
+        {
+          "number": "Attached 1",
+          "type": "クハE216-1000/2000",
+          "interior": "longitudinal"
+        }
+      ]
+    },
+    "shonan_basic_10": {
+      "livery": "shonan",
+      "direction": "Tokyo end → Atami end; TCF is at the Tokyo end",
+      "name": "E217 Tōkaidō Line 10-car basic set",
+      "formation": "TCF,MPS1R,M,T,T,T,T,MP1R,M,TCB",
+      "note": "Arranged in real-world car order 10→1. Cars 9 and 3 each have one pantograph at the Atami end. The real-world double-deck Green Cars (Car 4 and 5) use the standard T car appearance. Car 10 retains the original TCF interior; its semi-cross seating is not reproduced. Car 9 uses the intermediate-car template with semi-cross seating.",
+      "limitations": [
+        "The real-world double-deck Green Cars (Car 4 and 5) are represented by standard single-deck T cars.",
+        "In reality, Car 10 should be a cab car with semi-cross seating; the original TCF interior is retained."
+      ],
+      "real_cars": [
+        {
+          "number": "10",
+          "type": "クハE217-0",
+          "interior": "semicross"
+        },
+        {
+          "number": "9",
+          "type": "モハE217-0",
+          "interior": "semicross"
+        },
+        {
+          "number": "8",
+          "type": "モハE216-1000",
+          "interior": "longitudinal"
+        },
+        {
+          "number": "7",
+          "type": "サハE217-2000",
+          "interior": "longitudinal"
+        },
+        {
+          "number": "6",
+          "type": "サハE217-2000",
+          "interior": "longitudinal"
+        },
+        {
+          "number": "5",
+          "type": "サロE217",
+          "interior": "Green Car"
+        },
+        {
+          "number": "4",
+          "type": "サロE216",
+          "interior": "Green Car"
+        },
+        {
+          "number": "3",
+          "type": "モハE217-2000",
+          "interior": "longitudinal"
+        },
+        {
+          "number": "2",
+          "type": "モハE216-2000",
+          "interior": "longitudinal"
+        },
+        {
+          "number": "1",
+          "type": "クハE216-2000",
+          "interior": "longitudinal"
+        }
+      ]
+    },
+    "shonan_attached_5": {
+      "livery": "shonan",
+      "direction": "Tokyo end → Atami end; TCF is at the Tokyo end",
+      "name": "E217 Tōkaidō Line 5-car attached set",
+      "formation": "TCF,TS,MP1R,M,TCB",
+      "note": "Arranged in real-world attached-set car order 5→1. Attached-set Car 3 has one pantograph at the Atami end. All cars except attached-set Car 4 have longitudinal seating.",
+      "limitations": [
+        "Subseries-specific details, such as toilets in the attached-set cab cars, use the original model and are not modeled separately."
+      ],
+      "real_cars": [
+        {
+          "number": "Attached 5",
+          "type": "クハE217-2000",
+          "interior": "longitudinal"
+        },
+        {
+          "number": "Attached 4",
+          "type": "サハE217-0",
+          "interior": "semicross"
+        },
+        {
+          "number": "Attached 3",
+          "type": "モハE217-2000",
+          "interior": "longitudinal"
+        },
+        {
+          "number": "Attached 2",
+          "type": "モハE216-2000",
+          "interior": "longitudinal"
+        },
+        {
+          "number": "Attached 1",
+          "type": "クハE216-1000/2000",
+          "interior": "longitudinal"
+        }
+      ]
+    }
+  }
+}

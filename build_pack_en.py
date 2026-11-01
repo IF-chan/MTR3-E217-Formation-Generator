@@ -13,7 +13,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
 DEFAULT_OUTPUT_DIR = ROOT / "output"
-PRESETS_FILE = ROOT / "presets_cn.json"
+PRESETS_FILE = ROOT / "presets_en.json"
 
 LIVERIES = {
     "yokosuka": {"texture": ROOT / "base_pack/assets/mtr/e217/e217r.png", "name": "E217 Yokosuka Line", "color": "0033FF", "series": "E217"},
