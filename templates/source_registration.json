@@ -1,0 +1,34 @@
+{
+  "custom_trains": {
+    "e217_yokosuka": {
+      "name": "E217 Yokosuka Line",
+      "description": "",
+      "wikipedia_article": "",
+      "color": "0033FF",
+      "gangway_connection_id": "mtr:e217/r103",
+      "train_barrier_id": "",
+      "door_animation_type": "R179",
+      "render_door_overlay": false,
+      "rider_offset": 0.0,
+      "texture_id": "mtr:e217/e217r",
+      "model": "mtr:e217/e217.bbmodel",
+      "model_properties": "mtr:e217/e217.json",
+      "bve_sound_base_id": "e217"
+    },
+    "e217_shonan": {
+      "name": "E217 Shōnan–Shinjuku Line",
+      "description": "",
+      "wikipedia_article": "",
+      "color": "FF0000",
+      "gangway_connection_id": "mtr:e217/r103",
+      "train_barrier_id": "",
+      "door_animation_type": "R179",
+      "render_door_overlay": false,
+      "rider_offset": 0.0,
+      "texture_id": "mtr:e217/e217t",
+      "model": "mtr:e217/e217.bbmodel",
+      "model_properties": "mtr:e217/e217.json",
+      "bve_sound_base_id": "e217"
+    }
+  }
+}

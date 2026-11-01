@@ -1,0 +1,227 @@
+{
+  "e217_airzero": {
+    "sounds": [
+      {
+        "name": "mtr:e217/airzero",
+        "pitch": 1,
+        "attenuation_distance": 12
+      }
+    ]
+  },
+  "e217_loop": {
+    "sounds": [
+      {
+        "name": "mtr:e217/loop",
+        "pitch": 1,
+        "attenuation_distance": 15
+      }
+    ]
+  },
+  "e217_point": {
+    "sounds": [
+      {
+        "name": "mtr:e217/point",
+        "pitch": 1,
+        "attenuation_distance": 15
+      }
+    ]
+  },
+  "e217_dooropn": {
+    "sounds": [
+      {
+        "name": "mtr:e217/dooropn",
+        "pitch": 1,
+        "attenuation_distance": 15
+      }
+    ]
+  },
+  "e217_doorcls": {
+    "sounds": [
+      {
+        "name": "mtr:e217/doorcls",
+        "pitch": 1,
+        "attenuation_distance": 15
+      }
+    ]
+  },
+  "e217_m0": {
+    "sounds": [
+      {
+        "name": "mtr:e217/m0",
+        "pitch": 1,
+        "attenuation_distance": 15
+      }
+    ]
+  },
+  "e217_m1": {
+    "sounds": [
+      {
+        "name": "mtr:e217/m1",
+        "pitch": 1,
+        "attenuation_distance": 15
+      }
+    ]
+  },
+  "e217_m2": {
+    "sounds": [
+      {
+        "name": "mtr:e217/m2",
+        "pitch": 1,
+        "attenuation_distance": 15
+      }
+    ]
+  },
+  "e217_m3": {
+    "sounds": [
+      {
+        "name": "mtr:e217/m3",
+        "pitch": 1,
+        "attenuation_distance": 15
+      }
+    ]
+  },
+  "e217_m4": {
+    "sounds": [
+      {
+        "name": "mtr:e217/m4",
+        "pitch": 1,
+        "attenuation_distance": 15
+      }
+    ]
+  },
+  "e217_m5": {
+    "sounds": [
+      {
+        "name": "mtr:e217/m5",
+        "pitch": 1,
+        "attenuation_distance": 15
+      }
+    ]
+  },
+  "e217_m6": {
+    "sounds": [
+      {
+        "name": "mtr:e217/m6",
+        "pitch": 1,
+        "attenuation_distance": 15
+      }
+    ]
+  },
+  "e217_m7": {
+    "sounds": [
+      {
+        "name": "mtr:e217/m7",
+        "pitch": 1,
+        "attenuation_distance": 15
+      }
+    ]
+  },
+  "e217_m8a": {
+    "sounds": [
+      {
+        "name": "mtr:e217/m8a",
+        "pitch": 1,
+        "attenuation_distance": 15
+      }
+    ]
+  },
+  "e217_m9": {
+    "sounds": [
+      {
+        "name": "mtr:e217/m9",
+        "pitch": 1,
+        "attenuation_distance": 15
+      }
+    ]
+  },
+  "e217_m10": {
+    "sounds": [
+      {
+        "name": "mtr:e217/m10",
+        "pitch": 1,
+        "attenuation_distance": 15
+      }
+    ]
+  },
+  "e217_m11": {
+    "sounds": [
+      {
+        "name": "mtr:e217/m11",
+        "pitch": 1,
+        "attenuation_distance": 15
+      }
+    ]
+  },
+  "e217_m12": {
+    "sounds": [
+      {
+        "name": "mtr:e217/m12",
+        "pitch": 1,
+        "attenuation_distance": 15
+      }
+    ]
+  },
+  "e217_m13": {
+    "sounds": [
+      {
+        "name": "mtr:e217/m13",
+        "pitch": 1,
+        "attenuation_distance": 15
+      }
+    ]
+  },
+  "e217_m14": {
+    "sounds": [
+      {
+        "name": "mtr:e217/m14",
+        "pitch": 1,
+        "attenuation_distance": 15
+      }
+    ]
+  },
+  "e217_m15": {
+    "sounds": [
+      {
+        "name": "mtr:e217/m15",
+        "pitch": 1,
+        "attenuation_distance": 15
+      }
+    ]
+  },
+  "e217_m16": {
+    "sounds": [
+      {
+        "name": "mtr:e217/m16",
+        "pitch": 1,
+        "attenuation_distance": 15
+      }
+    ]
+  },
+  "e217_m17": {
+    "sounds": [
+      {
+        "name": "mtr:e217/m17",
+        "pitch": 1,
+        "attenuation_distance": 15
+      }
+    ]
+  },
+  "e217_m8b": {
+    "sounds": [
+      {
+        "name": "mtr:e217/m8b",
+        "pitch": 1,
+        "attenuation_distance": 15
+      }
+    ]
+  },
+  "e217_run": {
+    "sounds": [
+      {
+        "name": "mtr:e217/run",
+        "pitch": 1,
+        "attenuation_distance": 25
+      }
+    ]
+  }
+}
